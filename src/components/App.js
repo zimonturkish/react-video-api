@@ -17,7 +17,8 @@ class App extends React.Component {
   render() {
     return (
       <div className="ui container">
-        <SearchBar callMeWhenSubmitted={this.onTermSubmit} />
+        <SearchBar callMeWhenSubmitted={this.onTermSubmit} />I have{" "}
+        {this.state.videos.length} videos
       </div>
     );
   }
