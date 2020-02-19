@@ -9,7 +9,7 @@ class App extends React.Component {
         q: term // this is how the youtube documentation say to call the param for the string
       }
     });
-    console.log(response);
+    console.log(response.data.items);
   };
 
   render() {
