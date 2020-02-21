@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-video-api/static/css/main.8ad48a67.chunk.css",
-    "main.js": "/react-video-api/static/js/main.06c72ef8.chunk.js",
-    "main.js.map": "/react-video-api/static/js/main.06c72ef8.chunk.js.map",
+    "main.js": "/react-video-api/static/js/main.eef21ac3.chunk.js",
+    "main.js.map": "/react-video-api/static/js/main.eef21ac3.chunk.js.map",
     "runtime-main.js": "/react-video-api/static/js/runtime-main.ac5675d1.js",
     "runtime-main.js.map": "/react-video-api/static/js/runtime-main.ac5675d1.js.map",
     "static/js/2.39b415eb.chunk.js": "/react-video-api/static/js/2.39b415eb.chunk.js",
     "static/js/2.39b415eb.chunk.js.map": "/react-video-api/static/js/2.39b415eb.chunk.js.map",
     "index.html": "/react-video-api/index.html",
-    "precache-manifest.50fbf86693764a1234db22fd4b21222c.js": "/react-video-api/precache-manifest.50fbf86693764a1234db22fd4b21222c.js",
+    "precache-manifest.360df974bc4e32cec268e5dc0d8d5633.js": "/react-video-api/precache-manifest.360df974bc4e32cec268e5dc0d8d5633.js",
     "service-worker.js": "/react-video-api/service-worker.js",
     "static/css/main.8ad48a67.chunk.css.map": "/react-video-api/static/css/main.8ad48a67.chunk.css.map",
     "static/js/2.39b415eb.chunk.js.LICENSE.txt": "/react-video-api/static/js/2.39b415eb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ac5675d1.js",
     "static/js/2.39b415eb.chunk.js",
     "static/css/main.8ad48a67.chunk.css",
-    "static/js/main.06c72ef8.chunk.js"
+    "static/js/main.eef21ac3.chunk.js"
   ]
 }
