@@ -1,5 +1,6 @@
 {
   "name": "react-video-api",
+  "homepage": "https://zimonturkish.github.io/react-video-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
